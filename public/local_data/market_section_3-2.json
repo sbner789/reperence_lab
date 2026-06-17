@@ -1,0 +1,359 @@
+{
+  "section": {
+    "section_name": "section_3-2",
+    "stores": [
+      {
+        "id": "store_1",
+        "x": 1.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_2",
+        "x": 21.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_3",
+        "x": 41.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_4",
+        "x": 61.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_5",
+        "x": 81.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_6",
+        "x": 101.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_7",
+        "x": 121.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_8",
+        "x": 141.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_9",
+        "x": 161.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_10",
+        "x": 181.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_11",
+        "x": 201.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_12",
+        "x": 221.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_13",
+        "x": 241.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_14",
+        "x": 261.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_15",
+        "x": 281.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_16",
+        "x": 301.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_17",
+        "x": 321.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_18",
+        "x": 341.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_19",
+        "x": 361.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_20",
+        "x": 381.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_21",
+        "x": 401.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_22",
+        "x": 421.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_23",
+        "x": 441.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_24",
+        "x": 461.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_25",
+        "x": 481.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_26",
+        "x": 501.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_27",
+        "x": 521.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_28",
+        "x": 541.0,
+        "y": 77.0,
+        "width": 20.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_29",
+        "x": 560.95,
+        "y": 77.0,
+        "width": 36.0,
+        "height": 80.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_30",
+        "x": 516.95,
+        "y": 57.0,
+        "width": 80.0,
+        "height": 20.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_31",
+        "x": 516.95,
+        "y": 37.0,
+        "width": 80.0,
+        "height": 20.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      },
+      {
+        "id": "store_32",
+        "x": 516.95,
+        "y": 1.0,
+        "width": 80.0,
+        "height": 36.0,
+        "fill": "#f88",
+        "stroke": "#fff",
+        "stroke-width": "2px",
+        "class": "section_red"
+      }
+    ]
+  }
+}

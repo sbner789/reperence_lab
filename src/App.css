@@ -1,4 +1,13 @@
-.counter {
+.app {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/* .counter {
   font-size: 16px;
   padding: 5px 10px;
   border-radius: 5px;
@@ -181,4 +190,4 @@
     right: 0;
     border-right-color: var(--border);
   }
-}
+} */

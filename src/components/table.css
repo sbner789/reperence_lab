@@ -1,0 +1,53 @@
+.table_layout {
+    /* overflow-x: auto; */
+    overflow: hidden;
+    width: 1125px;
+    border: 1px solid green;
+    box-sizing: border-box;
+}
+
+table {
+    /* overflow-x: scroll; */
+    border-collapse: collapse;
+    width: max-content;
+}
+
+table thead tr {
+    display: flex;
+}
+
+table thead tr th {
+    border: 1px solid black;
+    box-sizing: border-box;
+    font-size: 13px;
+    width: 140px;
+}
+
+table thead tr th:nth-child(1) {
+    /* position: sticky; */
+    /* left: 0px; */
+}
+
+table thead {
+    
+}
+
+.fixed_col {
+    background: green;
+}
+
+.scroll_col {
+    width: 300px;
+    overflow-x: auto;
+    /* width: max-content; */
+}
+
+/* .fixedCol {
+    background: yellow;
+    position: sticky;
+    left: 0px;
+}
+
+.fixedCol2 {
+    background: green;
+} */
