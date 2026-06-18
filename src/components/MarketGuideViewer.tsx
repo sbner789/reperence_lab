@@ -8,9 +8,9 @@ const MarketGuideViewer = () => {
             <svg
                 ref={svgRef}
                 id="market_map"
-                width={1280}
-                height={960}
-                viewBox={`0 0 ${1280} ${960}`}
+                width={1920}
+                height={1080}
+                viewBox={`0 0 ${1920} ${1080}`}
             >
             </svg>
         </div>

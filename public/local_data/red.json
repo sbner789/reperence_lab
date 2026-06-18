@@ -1,0 +1,1365 @@
+{
+  "group": "red",
+  "sections": [
+    {
+      "section_name": "section_1-1",
+      "stores": [
+        {
+          "id": "store_15",
+          "x": 1031.29,
+          "y": 201.0,
+          "width": 52.0,
+          "height": 30.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_14",
+          "x": 1083.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_13",
+          "x": 1101.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_12",
+          "x": 1119.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_11",
+          "x": 1137.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_10",
+          "x": 1155.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_9",
+          "x": 1173.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_8",
+          "x": 1191.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_7",
+          "x": 1209.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_6",
+          "x": 1227.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_5",
+          "x": 1245.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_4",
+          "x": 1263.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_3",
+          "x": 1281.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_2",
+          "x": 1299.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_1",
+          "x": 1317.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        }
+      ]
+    },
+    {
+      "section_name": "section_1-2",
+      "stores": [
+        {
+          "id": "store_24",
+          "x": 1153.29,
+          "y": 1.0,
+          "width": 80.0,
+          "height": 20.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_23",
+          "x": 1153.29,
+          "y": 21.0,
+          "width": 80.0,
+          "height": 20.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_22",
+          "x": 1153.29,
+          "y": 41.0,
+          "width": 80.0,
+          "height": 20.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_21",
+          "x": 1153.29,
+          "y": 61.0,
+          "width": 80.0,
+          "height": 20.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_20",
+          "x": 1153.29,
+          "y": 81.0,
+          "width": 36.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_19",
+          "x": 1189.29,
+          "y": 81.0,
+          "width": 36.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_18",
+          "x": 1225.29,
+          "y": 81.0,
+          "width": 36.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_17",
+          "x": 1261.29,
+          "y": 81.0,
+          "width": 36.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_16",
+          "x": 1297.29,
+          "y": 81.0,
+          "width": 36.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        }
+      ]
+    },
+    {
+      "section_name": "section_2-1",
+      "stores": [
+        {
+          "id": "store_39",
+          "x": 637.29,
+          "y": 201.0,
+          "width": 68.0,
+          "height": 40.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_38",
+          "x": 705.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_37",
+          "x": 723.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_36",
+          "x": 741.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_35",
+          "x": 759.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_34",
+          "x": 777.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_33",
+          "x": 795.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_32",
+          "x": 813.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_31",
+          "x": 831.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_30",
+          "x": 849.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_29",
+          "x": 867.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_28",
+          "x": 885.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_27",
+          "x": 903.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_26",
+          "x": 921.29,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_25",
+          "x": 939.29,
+          "y": 201.0,
+          "width": 52.0,
+          "height": 20.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        }
+      ]
+    },
+    {
+      "section_name": "section_2-2",
+      "stores": [
+        {
+          "id": "store_72",
+          "x": 637.29,
+          "y": 1.0,
+          "width": 80.0,
+          "height": 16.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_71",
+          "x": 637.29,
+          "y": 17.0,
+          "width": 80.0,
+          "height": 16.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_70",
+          "x": 637.29,
+          "y": 33.0,
+          "width": 80.0,
+          "height": 16.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_69",
+          "x": 637.29,
+          "y": 49.0,
+          "width": 80.0,
+          "height": 16.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_68",
+          "x": 637.29,
+          "y": 65.0,
+          "width": 80.0,
+          "height": 16.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_67",
+          "x": 637.29,
+          "y": 81.0,
+          "width": 36.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_66",
+          "x": 673.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_65",
+          "x": 693.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_64",
+          "x": 713.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_63",
+          "x": 733.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_62",
+          "x": 753.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_61",
+          "x": 773.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_60",
+          "x": 793.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_59",
+          "x": 813.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_58",
+          "x": 833.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_57",
+          "x": 853.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_56",
+          "x": 873.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_55",
+          "x": 893.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_54",
+          "x": 913.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_53",
+          "x": 933.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_52",
+          "x": 953.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_51",
+          "x": 973.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_50",
+          "x": 993.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_49",
+          "x": 1013.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_48",
+          "x": 1033.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_47",
+          "x": 1053.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_46",
+          "x": 1073.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_45",
+          "x": 1093.29,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_44",
+          "x": 1033.29,
+          "y": 65.0,
+          "width": 80.0,
+          "height": 16.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_43",
+          "x": 1033.29,
+          "y": 49.0,
+          "width": 80.0,
+          "height": 16.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_42",
+          "x": 1033.29,
+          "y": 33.0,
+          "width": 80.0,
+          "height": 16.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_41",
+          "x": 1033.29,
+          "y": 17.0,
+          "width": 80.0,
+          "height": 16.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_40",
+          "x": 1033.29,
+          "y": 1.0,
+          "width": 80.0,
+          "height": 16.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        }
+      ]
+    },
+    {
+      "section_name": "section_3-1",
+      "stores": [
+        {
+          "id": "store_101",
+          "x": 1.0,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_100",
+          "x": 19.0,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_99",
+          "x": 37.0,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_98",
+          "x": 55.0,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_97",
+          "x": 73.0,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_96",
+          "x": 91.0,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_95",
+          "x": 109.0,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_94",
+          "x": 127.0,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_93",
+          "x": 145.0,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_92",
+          "x": 163.0,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_91",
+          "x": 181.0,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_90",
+          "x": 199.0,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_89",
+          "x": 217.0,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_88",
+          "x": 235.0,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_87",
+          "x": 253.0,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_86",
+          "x": 271.0,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_85",
+          "x": 289.0,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_84",
+          "x": 307.0,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_83",
+          "x": 325.0,
+          "y": 201.0,
+          "width": 18.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_82",
+          "x": 343.0,
+          "y": 201.0,
+          "width": 72.0,
+          "height": 54.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_81",
+          "x": 452.95,
+          "y": 201.0,
+          "width": 16.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_80",
+          "x": 468.95,
+          "y": 201.0,
+          "width": 16.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_79",
+          "x": 484.95,
+          "y": 201.0,
+          "width": 16.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_78",
+          "x": 500.95,
+          "y": 201.0,
+          "width": 16.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_77",
+          "x": 516.95,
+          "y": 201.0,
+          "width": 16.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_76",
+          "x": 532.95,
+          "y": 201.0,
+          "width": 16.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_75",
+          "x": 548.95,
+          "y": 201.0,
+          "width": 16.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_74",
+          "x": 564.95,
+          "y": 201.0,
+          "width": 16.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_73",
+          "x": 580.95,
+          "y": 201.0,
+          "width": 16.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        }
+      ]
+    },
+    {
+      "section_name": "section_3-2",
+      "stores": [
+        {
+          "id": "store_133",
+          "x": 1.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_132",
+          "x": 21.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_131",
+          "x": 41.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_130",
+          "x": 61.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_129",
+          "x": 81.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_128",
+          "x": 101.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_127",
+          "x": 121.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_126",
+          "x": 141.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_125",
+          "x": 161.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_124",
+          "x": 181.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_123",
+          "x": 201.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_122",
+          "x": 221.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_121",
+          "x": 241.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_120",
+          "x": 261.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_119",
+          "x": 281.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_118",
+          "x": 301.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_117",
+          "x": 321.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_116",
+          "x": 341.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_115",
+          "x": 361.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_114",
+          "x": 381.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_113",
+          "x": 401.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_112",
+          "x": 421.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_111",
+          "x": 441.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_110",
+          "x": 461.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_109",
+          "x": 481.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_108",
+          "x": 501.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_107",
+          "x": 521.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_106",
+          "x": 541.34,
+          "y": 81.0,
+          "width": 20.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_105",
+          "x": 561.29,
+          "y": 81.0,
+          "width": 36.0,
+          "height": 80.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_104",
+          "x": 517.29,
+          "y": 61.0,
+          "width": 80.0,
+          "height": 20.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_103",
+          "x": 517.29,
+          "y": 41.0,
+          "width": 80.0,
+          "height": 20.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        },
+        {
+          "id": "store_102",
+          "x": 517.29,
+          "y": 5.0,
+          "width": 80.0,
+          "height": 36.0,
+          "fill": "#f88",
+          "stroke": "#fff",
+          "stroke-width": "2px"
+        }
+      ]
+    }
+  ]
+}
