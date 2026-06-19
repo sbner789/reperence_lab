@@ -1,7 +1,7 @@
 import useMarketGuideViewer from "@/hooks/useMarketGuideViewer";
 
 const MarketGuideViewer = () => {
-    const { svgRef, guideData } = useMarketGuideViewer('/local_data/section_3-2.json');
+    const { svgRef } = useMarketGuideViewer();
 
     return (
         <div className="" style={{ border: "1px solid black", boxSizing: "border-box" }}>
