@@ -1,19 +1,35 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
 
-type MarketGuideMap = {
-   sector: string;
-   sections: [];
+export type StoreShape = {
+    id: string;
+    x: number;
+    y: number;
+    width: number;
+    height: number;
+    fill: string;
+    stroke: string;
+    "stroke-width": string;
 };
 
-type StoreDataShape = {
+export type MarketGuideSection = {
+    section_name: string;
+    stores: StoreShape[];
+};
+
+export type MarketGuideSector = {
+    sector: string;
+    sections: MarketGuideSection[];
+};
+
+export type StoreNameEntry = {
     id: string;
     store_name: string;
 };
 
 const useMarketGuide = () => {
-    const [marketGuide, setMarketGuide] = useState<MarketGuideMap[]>();
-    const [storeData, setStoreData] = useState<StoreDataShape[]>();
+    const [marketGuide, setMarketGuide] = useState<MarketGuideSector[]>();
+    const [storeData, setStoreData] = useState<StoreNameEntry[]>();
 
     useEffect(() => {
         const fetchMarketGuide = async () => {
