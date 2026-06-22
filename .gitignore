@@ -13,7 +13,7 @@ dist-ssr
 *.local
 
 # Docs (local only)
-docs/
+##docs/
 
 # Environment variables
 .env
