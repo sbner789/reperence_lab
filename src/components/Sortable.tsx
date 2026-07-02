@@ -119,6 +119,7 @@ const Sortable = () => {
                         onDragOver={(e) => handleDragOver(e)}
                         onDrop={(e) => handleDropColumn(e, item.orderIndex)}
                         draggable
+                        // draggable={item.isVisible}
                     >
                         <div className='sortable_item_content'>
                             <img src="" />
@@ -128,7 +129,7 @@ const Sortable = () => {
                             className={item.isVisible ? 'toggle_filter_active' : 'toggle_filter_deactivate'}
                             onClick={() => updateItem(item.orderIndex, { isVisible: !item.isVisible })}
                         >
-
+                            <div className='toggle_knob' />
                         </div>
                     </div>
                 ))
